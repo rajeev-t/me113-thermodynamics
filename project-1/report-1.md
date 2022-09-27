@@ -19,9 +19,9 @@ The project involves:
 
 1. The equation for the *rate* of heat loss through the roof is given by:
 
-    $$
-        Q̇ = \frac{k·A·ΔT}{L}
-    $$
+    <p float="left">
+        <img src="resources/formula.png" width="250" />
+    </p>
 
     where,
     * *k* is the thermal conductivity of the roof's material, concrete
